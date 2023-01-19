@@ -1,0 +1,37 @@
+{
+  "name": "cordova-plugin-file-opener2-applaud",
+  "version": "1.0.0",
+  "description": "A File Opener Plugin for Cordova. (The Original Version)",
+  "cordova": {
+    "id": "cordova-plugin-file-opener2",
+    "platforms": [
+      "android",
+      "ios",
+      "windows",
+      "electron"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Applaud-devpack/cordova-plugin-file-opener2-applaud.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-windows",
+    "cordova-electron",
+    "applaud"
+  ],
+  "engines": {
+    "cordova": ">=6.0.0"
+  },
+  "author": {
+    "name": "Applaud"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Applaud-devpack/cordova-plugin-file-opener2-applaud/issues"
+  },
+  "homepage": "https://github.com/Applaud-devpack/cordova-plugin-file-opener2-applaud#readme"
+}
